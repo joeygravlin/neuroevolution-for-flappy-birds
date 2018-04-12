@@ -2,7 +2,7 @@ from itertools import cycle
 from numpy.random import randint,choice
 import sys
 import neat
-import cPickle as pickle
+import pickle as pickle
 import os
 
 
